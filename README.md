@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p style="text-align: center">
 
 # Twitter Clone
@@ -72,3 +73,6 @@ npx prisma db push
 
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# nuxtjs-tutorial_twitter-clone
+>>>>>>> d0ead8d16c0f358619cfbc92df0b52e79ce22c4d
